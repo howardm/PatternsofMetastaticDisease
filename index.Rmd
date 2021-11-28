@@ -61,13 +61,13 @@ style_mono_light(base_color = "#23395b")
 ```{r meta, echo=FALSE}
 meta() %>%
   meta_general(
-    description = "A thoracic radiology presentation",
+    description = "Patterns of Thoracic Metastatic Disease",
   ) %>% 
   meta_name("github-repo" = "howardm") %>% 
   meta_social(
-    title = "Core Curriculum",
+    title = "Thoracic Radiology",
     url = "https://howardm.github.io/PatternsofMetastaticDisease",
-    image = "https://https://github.com/howardm/PatternsofMetastaticDisease/images/twitter-card.jpg",
+    image = "https://github.com/howardm/PatternsofMetastaticDisease/images/twitter-card.jpg",
     image_alt = "",
     og_type = "website",
     og_author = "Howard Mann",
