@@ -67,7 +67,7 @@ meta() %>%
   meta_social(
     title = "Thoracic Radiology",
     url = "https://howardm.github.io/PatternsofMetastaticDisease",
-    image = "https://github.com/howardm/PatternsofMetastaticDisease/blob/main/images/twitter-card.jpg",
+    image = "http://howardmann.us/twitter-card1.jpg",
     image_alt = "",
     og_type = "website",
     og_author = "Howard Mann",
